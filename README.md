@@ -29,7 +29,8 @@ Persistência de dados: As alterações realizadas nas metas são salvas automat
 
 
 **Como usar:**
-Pré-requisitos:
+
+## Pré-requisitos:
 
 - Node.js e npm (ou yarn) instalados.
 
