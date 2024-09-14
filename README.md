@@ -21,16 +21,16 @@ Persistência de dados: As alterações realizadas nas metas são salvas automat
 
 **Tecnologias utilizadas:**
 
-Node.js: Plataforma de execução JavaScript fora do navegador.
+- Node.js: Plataforma de execução JavaScript fora do navegador.
 
-Inquirer.js: Framework para criar interfaces de linha de comando interativas.
+- Inquirer.js: Framework para criar interfaces de linha de comando interativas.
 
-fs: Módulo do Node.js para interagir com o sistema de arquivos.
+- fs: Módulo do Node.js para interagir com o sistema de arquivos.
 
 
 **Como usar:**
 Pré-requisitos:
 
-Node.js e npm (ou yarn) instalados.
+- Node.js e npm (ou yarn) instalados.
 
-Clonagem do repositório:
+- Clonagem do repositório:
