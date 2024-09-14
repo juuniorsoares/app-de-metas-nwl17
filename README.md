@@ -28,8 +28,6 @@ Persistência de dados: As alterações realizadas nas metas são salvas automat
 - fs: Módulo do Node.js para interagir com o sistema de arquivos.
 
 
-**Como usar:**
-
 ## Pré-requisitos:
 
 - Node.js e npm (ou yarn) instalados.
