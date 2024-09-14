@@ -7,11 +7,17 @@
 Esta aplicação Node.js, construída com o framework Inquirer.js, é um gerenciador de metas simples e intuitivo. Ela permite que você:
 
 **Cadastre novas metas:** Adicione metas a serem alcançadas.
+
 **Liste metas:** Visualize todas as metas cadastradas.
+
 **Marque metas como concluídas:** Indique quais metas já foram alcançadas.
+
 **Visualize metas realizadas e abertas:** Obtenha um resumo do seu progresso.
+
 **Delete metas:** Remova metas que não são mais relevantes.
+
 Os dados das metas são persistidos em um arquivo JSON para que você possa acessá-los a qualquer momento.
+
 
 ## Como funciona?
 Inicialização: Ao iniciar a aplicação, ela carrega as metas existentes do arquivo metas.json.
