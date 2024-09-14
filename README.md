@@ -1,8 +1,8 @@
 # app-de-metas-nwl17
  Controla Metas via Terminal
 
-## Readme.md: Aplicação de Gerenciamento de Metas
-**Descrição:**
+## Aplicação de Gerenciamento de Metas
+## Descrição:
 
 Esta aplicação Node.js, construída com o framework Inquirer.js, é um gerenciador de metas simples e intuitivo. Ela permite que você:
 
@@ -13,13 +13,13 @@ Esta aplicação Node.js, construída com o framework Inquirer.js, é um gerenci
 **Delete metas:** Remova metas que não são mais relevantes.
 Os dados das metas são persistidos em um arquivo JSON para que você possa acessá-los a qualquer momento.
 
-**Como funciona?**
+## Como funciona?
 Inicialização: Ao iniciar a aplicação, ela carrega as metas existentes do arquivo metas.json.
 Menu interativo: Um menu é apresentado ao usuário, oferecendo as opções de cadastrar, listar, marcar como concluídas, visualizar e deletar metas.
 Interação com o usuário: O usuário interage com a aplicação através do terminal, escolhendo as opções desejadas e fornecendo as informações necessárias.
 Persistência de dados: As alterações realizadas nas metas são salvas automaticamente no arquivo metas.json.
 
-**Tecnologias utilizadas:**
+## Tecnologias utilizadas:
 
 - Node.js: Plataforma de execução JavaScript fora do navegador.
 
