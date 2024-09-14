@@ -24,7 +24,7 @@ Node.js: Plataforma de execução JavaScript fora do navegador.
 Inquirer.js: Framework para criar interfaces de linha de comando interativas.
 fs: Módulo do Node.js para interagir com o sistema de arquivos.
 
-Como usar
+**Como usar:**
 Pré-requisitos:
 Node.js e npm (ou yarn) instalados.
 Clonagem do repositório:
