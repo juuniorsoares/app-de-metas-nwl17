@@ -20,11 +20,17 @@ Interação com o usuário: O usuário interage com a aplicação através do te
 Persistência de dados: As alterações realizadas nas metas são salvas automaticamente no arquivo metas.json.
 
 **Tecnologias utilizadas:**
+
 Node.js: Plataforma de execução JavaScript fora do navegador.
+
 Inquirer.js: Framework para criar interfaces de linha de comando interativas.
+
 fs: Módulo do Node.js para interagir com o sistema de arquivos.
+
 
 **Como usar:**
 Pré-requisitos:
+
 Node.js e npm (ou yarn) instalados.
+
 Clonagem do repositório:
